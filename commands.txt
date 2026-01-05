@@ -11,7 +11,7 @@ command for adding staged files to local repository
 > git commit -m "commit message"
 command for listing all untracked files
 > git status
-create new repository in github
+Remote repository commands - first create new repository in github
 RR details
 git remote -v
 command for adding remote repository
