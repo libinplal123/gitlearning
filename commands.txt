@@ -11,10 +11,10 @@ command for adding staged files to local repository
 > git commit -m "commit message"
 command for listing all untracked files
 > git status
-repository details
+RR details
 git remote -v
 command for adding remote repository
-> git remote add name path
+> git remote add name path (path copied from github)
 branch and details
 > git branch
 pushing to RR
